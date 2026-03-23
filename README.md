@@ -39,15 +39,14 @@ The banker still makes the call. The AI just makes sure nobody falls through the
 . python-dotenv — secure API key management
 
 ## Project Structure
-
+```
 client-checkin-system/
-├── app.py                  # Streamlit dashboard
-├── notebook.ipynb          # Full pipeline walkthrough with documentation
-├── credentials.json        # Google service account key (never uploaded to GitHub)
-├── .env                    # API keys (never uploaded to GitHub)
-├── .env.example            # Template showing required environment variables
-├── .gitignore              # Excludes sensitive files from GitHub
-└── README.md               # This file
+├── app.py                        # Streamlit dashboard
+├── client_checkin_notebook.ipynb # Full pipeline walkthrough
+├── .env.example                  # Template for environment variables
+├── .gitignore                    # Excludes sensitive files from GitHub
+└── README.md                     # This file
+```
 
 ## Setup Instructions
 
