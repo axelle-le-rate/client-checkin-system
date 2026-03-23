@@ -18,6 +18,14 @@ The banker still makes the call. The AI just makes sure nobody falls through the
 4. A Python script reads the sheet, sends each response to Gemini AI for analysis, and generates a structured summary
 5. The Streamlit dashboard displays all responses with urgency levels, categories, AI summaries, and recommended banker actions
 
+## The Form
+
+Clients receive a simple, mobile-friendly check-in form with conditional logic that adapts based on their answers.
+
+![Form Page 1](/Users/axellejimenez/Desktop/gf1.png)
+![Form Page 2](/Users/axellejimenez/Desktop/gf2.png)
+![Form Page 3](/Users/axellejimenez/Desktop/gf3.png)
+
 ## Tech Stack
 
 . Google Forms — client-facing check-in form with conditional logic
