@@ -80,7 +80,7 @@ pip install streamlit gspread google-auth google-genai pandas python-dotenv
 ```
 GEMINI_API_KEY=your-key-here
 
-## Run the dashboard
+### 5. Run the dashboard
 
 streamlit run app.py
 
