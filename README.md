@@ -28,23 +28,23 @@ Clients receive a simple, mobile-friendly check-in form with conditional logic t
 
 ## Tech Stack
 
-. Google Forms — client-facing check-in form with conditional logic
+- Google Forms — client-facing check-in form with conditional logic
 
-. Google Sheets — automatic response storage
+- Google Sheets — automatic response storage
 
-. Make.com — no-code automation for banker email notifications
+- Make.com — no-code automation for banker email notifications
 
-. Python — core pipeline logic
+- Python — core pipeline logic
 
-. gspread — connects Python to Google Sheets via API
+- gspread — connects Python to Google Sheets via API
 
-. Google Gemini AI — analyzes client responses and generates structured recommendations
+- Google Gemini AI — analyzes client responses and generates structured recommendations
 
-. Streamlit — interactive banker-facing dashboard
+- Streamlit — interactive banker-facing dashboard
 
-. pandas — data manipulation and dataframe management
+- pandas — data manipulation and dataframe management
 
-. python-dotenv — secure API key management
+- python-dotenv — secure API key management
 
 ## Project Structure
 ```
